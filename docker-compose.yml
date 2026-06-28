@@ -1,0 +1,4 @@
+services:
+  bot:
+    image: python
+    command: python run.py
